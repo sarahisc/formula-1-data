@@ -1,0 +1,305 @@
+driverId,url,givenName,familyName,dateOfBirth,nationality,,driverId,givenName,familyName,
+alguersuari,http://en.wikipedia.org/wiki/Jaime_Alguersuari,Jaime,Alguersuari,23/03/1990,Spanish,,alguersuari,Jaime,Alguersuari,Jaime Alguersuari
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,alonso,Fernando,Alonso,Fernando Alonso
+barrichello,http://en.wikipedia.org/wiki/Rubens_Barrichello,Rubens,Barrichello,23/05/1972,Brazilian,,barrichello,Rubens,Barrichello,Rubens Barrichello
+buemi,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi,Sébastien,Buemi,31/10/1988,Swiss,,buemi,Sébastien,Buemi,Sébastien Buemi
+button,http://en.wikipedia.org/wiki/Jenson_Button,Jenson,Button,19/01/1980,British,,button,Jenson,Button,Jenson Button
+chandhok,http://en.wikipedia.org/wiki/Karun_Chandhok,Karun,Chandhok,19/01/1984,Indian,,chandhok,Karun,Chandhok,Karun Chandhok
+rosa,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa,Pedro,de la Rosa,24/02/1971,Spanish,,rosa,Pedro,de la Rosa,Pedro de la Rosa
+grassi,http://en.wikipedia.org/wiki/Lucas_di_Grassi,Lucas,di Grassi,11/08/1984,Brazilian,,grassi,Lucas,di Grassi,Lucas di Grassi
+glock,http://en.wikipedia.org/wiki/Timo_Glock,Timo,Glock,18/03/1982,German,,glock,Timo,Glock,Timo Glock
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,hamilton,Lewis,Hamilton,Lewis Hamilton
+heidfeld,http://en.wikipedia.org/wiki/Nick_Heidfeld,Nick,Heidfeld,10/05/1977,German,,heidfeld,Nick,Heidfeld,Nick Heidfeld
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,hulkenberg,Nico,Hülkenberg,Nico Hülkenberg
+klien,http://en.wikipedia.org/wiki/Christian_Klien,Christian,Klien,07/02/1983,Austrian,,klien,Christian,Klien,Christian Klien
+kobayashi,http://en.wikipedia.org/wiki/Kamui_Kobayashi,Kamui,Kobayashi,13/09/1986,Japanese,,kobayashi,Kamui,Kobayashi,Kamui Kobayashi
+kovalainen,http://en.wikipedia.org/wiki/Heikki_Kovalainen,Heikki,Kovalainen,19/10/1981,Finnish,,kovalainen,Heikki,Kovalainen,Heikki Kovalainen
+kubica,http://en.wikipedia.org/wiki/Robert_Kubica,Robert,Kubica,07/12/1984,Polish,,kubica,Robert,Kubica,Robert Kubica
+liuzzi,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi,Vitantonio,Liuzzi,06/08/1980,Italian,,liuzzi,Vitantonio,Liuzzi,Vitantonio Liuzzi
+massa,http://en.wikipedia.org/wiki/Felipe_Massa,Felipe,Massa,25/04/1981,Brazilian,,massa,Felipe,Massa,Felipe Massa
+petrov,http://en.wikipedia.org/wiki/Vitaly_Petrov,Vitaly,Petrov,08/09/1984,Russian,,petrov,Vitaly,Petrov,Vitaly Petrov
+rosberg,http://en.wikipedia.org/wiki/Nico_Rosberg,Nico,Rosberg,27/06/1985,German,,rosberg,Nico,Rosberg,Nico Rosberg
+michael_schumacher,http://en.wikipedia.org/wiki/Michael_Schumacher,Michael,Schumacher,03/01/1969,German,,michael_schumacher,Michael,Schumacher,Michael Schumacher
+bruno_senna,http://en.wikipedia.org/wiki/Bruno_Senna,Bruno,Senna,15/10/1983,Brazilian,,bruno_senna,Bruno,Senna,Bruno Senna
+sutil,http://en.wikipedia.org/wiki/Adrian_Sutil,Adrian,Sutil,11/01/1983,German,,sutil,Adrian,Sutil,Adrian Sutil
+trulli,http://en.wikipedia.org/wiki/Jarno_Trulli,Jarno,Trulli,13/07/1974,Italian,,trulli,Jarno,Trulli,Jarno Trulli
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,vettel,Sebastian,Vettel,Sebastian Vettel
+webber,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Mark,Webber,27/08/1976,Australian,,webber,Mark,Webber,Mark Webber
+yamamoto,http://en.wikipedia.org/wiki/Sakon_Yamamoto,Sakon,Yamamoto,09/07/1982,Japanese,,yamamoto,Sakon,Yamamoto,Sakon Yamamoto
+alguersuari,http://en.wikipedia.org/wiki/Jaime_Alguersuari,Jaime,Alguersuari,23/03/1990,Spanish,,ambrosio,Jérôme,d'Ambrosio,Jérôme d'Ambrosio
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,resta,Paul,di Resta,Paul di Resta
+barrichello,http://en.wikipedia.org/wiki/Rubens_Barrichello,Rubens,Barrichello,23/05/1972,Brazilian,,karthikeyan,Narain,Karthikeyan,Narain Karthikeyan
+buemi,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi,Sébastien,Buemi,31/10/1988,Swiss,,maldonado,Pastor,Maldonado,Pastor Maldonado
+button,http://en.wikipedia.org/wiki/Jenson_Button,Jenson,Button,19/01/1980,British,,perez,Sergio,Pérez,Sergio Pérez
+chandhok,http://en.wikipedia.org/wiki/Karun_Chandhok,Karun,Chandhok,19/01/1984,Indian,,ricciardo,Daniel,Ricciardo,Daniel Ricciardo
+ambrosio,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio,Jérôme,d'Ambrosio,27/12/1985,Belgian,,grosjean,Romain,Grosjean,Romain Grosjean
+rosa,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa,Pedro,de la Rosa,24/02/1971,Spanish,,pic,Charles,Pic,Charles Pic
+resta,http://en.wikipedia.org/wiki/Paul_di_Resta,Paul,di Resta,16/04/1986,British,,raikkonen,Kimi,Räikkönen,Kimi Räikkönen
+glock,http://en.wikipedia.org/wiki/Timo_Glock,Timo,Glock,18/03/1982,German,,vergne,Jean-Éric,Vergne,Jean-Éric Vergne
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,jules_bianchi,Jules,Bianchi,Jules Bianchi
+heidfeld,http://en.wikipedia.org/wiki/Nick_Heidfeld,Nick,Heidfeld,10/05/1977,German,,bottas,Valtteri,Bottas,Valtteri Bottas
+karthikeyan,http://en.wikipedia.org/wiki/Narain_Karthikeyan,Narain,Karthikeyan,14/01/1977,Indian,,chilton,Max,Chilton,Max Chilton
+kobayashi,http://en.wikipedia.org/wiki/Kamui_Kobayashi,Kamui,Kobayashi,13/09/1986,Japanese,,gutierrez,Esteban,Gutiérrez,Esteban Gutiérrez
+kovalainen,http://en.wikipedia.org/wiki/Heikki_Kovalainen,Heikki,Kovalainen,19/10/1981,Finnish,,garde,Giedo,van der Garde,Giedo van der Garde
+liuzzi,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi,Vitantonio,Liuzzi,06/08/1980,Italian,,ericsson,Marcus,Ericsson,Marcus Ericsson
+maldonado,http://en.wikipedia.org/wiki/Pastor_Maldonado,Pastor,Maldonado,09/03/1985,Venezuelan,,kvyat,Daniil,Kvyat,Daniil Kvyat
+massa,http://en.wikipedia.org/wiki/Felipe_Massa,Felipe,Massa,25/04/1981,Brazilian,,lotterer,André,Lotterer,André Lotterer
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,kevin_magnussen,Kevin,Magnussen,Kevin Magnussen
+petrov,http://en.wikipedia.org/wiki/Vitaly_Petrov,Vitaly,Petrov,08/09/1984,Russian,,stevens,Will,Stevens,Will Stevens
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,merhi,Roberto,Merhi,Roberto Merhi
+rosberg,http://en.wikipedia.org/wiki/Nico_Rosberg,Nico,Rosberg,27/06/1985,German,,nasr,Felipe,Nasr,Felipe Nasr
+michael_schumacher,http://en.wikipedia.org/wiki/Michael_Schumacher,Michael,Schumacher,03/01/1969,German,,rossi,Alexander,Rossi,Alexander Rossi
+bruno_senna,http://en.wikipedia.org/wiki/Bruno_Senna,Bruno,Senna,15/10/1983,Brazilian,,sainz,Carlos,Sainz,Carlos Sainz
+sutil,http://en.wikipedia.org/wiki/Adrian_Sutil,Adrian,Sutil,11/01/1983,German,,max_verstappen,Max,Verstappen,Max Verstappen
+trulli,http://en.wikipedia.org/wiki/Jarno_Trulli,Jarno,Trulli,13/07/1974,Italian,,haryanto,Rio,Haryanto,Rio Haryanto
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,ocon,Esteban,Ocon,Esteban Ocon
+webber,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Mark,Webber,27/08/1976,Australian,,jolyon_palmer,Jolyon,Palmer,Jolyon Palmer
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,vandoorne,Stoffel,Vandoorne,Stoffel Vandoorne
+button,http://en.wikipedia.org/wiki/Jenson_Button,Jenson,Button,19/01/1980,British,,wehrlein,Pascal,Wehrlein,Pascal Wehrlein
+ambrosio,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio,Jérôme,d'Ambrosio,27/12/1985,Belgian,,gasly,Pierre,Gasly,Pierre Gasly
+rosa,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa,Pedro,de la Rosa,24/02/1971,Spanish,,giovinazzi,Antonio,Giovinazzi,Antonio Giovinazzi
+resta,http://en.wikipedia.org/wiki/Paul_di_Resta,Paul,di Resta,16/04/1986,British,,brendon_hartley,Brendon,Hartley,Brendon Hartley
+glock,http://en.wikipedia.org/wiki/Timo_Glock,Timo,Glock,18/03/1982,German,,stroll,Lance,Stroll,Lance Stroll
+grosjean,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,17/04/1986,French,,leclerc,Charles,Leclerc,Charles Leclerc
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,sirotkin,Sergey,Sirotkin,Sergey Sirotkin
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,albon,Alexander,Albon,Alexander Albon
+karthikeyan,http://en.wikipedia.org/wiki/Narain_Karthikeyan,Narain,Karthikeyan,14/01/1977,Indian,,norris,Lando,Norris,Lando Norris
+kobayashi,http://en.wikipedia.org/wiki/Kamui_Kobayashi,Kamui,Kobayashi,13/09/1986,Japanese,,russell,George,Russell,George Russell
+kovalainen,http://en.wikipedia.org/wiki/Heikki_Kovalainen,Heikki,Kovalainen,19/10/1981,Finnish,,aitken,Jack,Aitken,Jack Aitken
+maldonado,http://en.wikipedia.org/wiki/Pastor_Maldonado,Pastor,Maldonado,09/03/1985,Venezuelan,,pietro_fittipaldi,Pietro,Fittipaldi,Pietro Fittipaldi
+massa,http://en.wikipedia.org/wiki/Felipe_Massa,Felipe,Massa,25/04/1981,Brazilian,,latifi,Nicholas,Latifi,Nicholas Latifi
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,mazepin,Nikita,Mazepin,Nikita Mazepin
+petrov,http://en.wikipedia.org/wiki/Vitaly_Petrov,Vitaly,Petrov,08/09/1984,Russian,,mick_schumacher,Mick,Schumacher,Mick Schumacher
+pic,http://en.wikipedia.org/wiki/Charles_Pic,Charles,Pic,15/02/1990,French,,tsunoda,Yuki,Tsunoda,Yuki Tsunoda
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,de_vries,Nyck,de Vries,Nyck de Vries
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,zhou,Guanyu,Zhou,Guanyu Zhou
+rosberg,http://en.wikipedia.org/wiki/Nico_Rosberg,Nico,Rosberg,27/06/1985,German,,,,,
+michael_schumacher,http://en.wikipedia.org/wiki/Michael_Schumacher,Michael,Schumacher,03/01/1969,German,,,,,
+bruno_senna,http://en.wikipedia.org/wiki/Bruno_Senna,Bruno,Senna,15/10/1983,Brazilian,,,,,
+vergne,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne,Jean-Éric,Vergne,25/04/1990,French,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+webber,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Mark,Webber,27/08/1976,Australian,,,,,
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,,,,
+jules_bianchi,http://en.wikipedia.org/wiki/Jules_Bianchi,Jules,Bianchi,03/08/1989,French,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+button,http://en.wikipedia.org/wiki/Jenson_Button,Jenson,Button,19/01/1980,British,,,,,
+chilton,http://en.wikipedia.org/wiki/Max_Chilton,Max,Chilton,21/04/1991,British,,,,,
+resta,http://en.wikipedia.org/wiki/Paul_di_Resta,Paul,di Resta,16/04/1986,British,,,,,
+grosjean,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,17/04/1986,French,,,,,
+gutierrez,http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez,Esteban,Gutiérrez,05/08/1991,Mexican,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,,,,
+kovalainen,http://en.wikipedia.org/wiki/Heikki_Kovalainen,Heikki,Kovalainen,19/10/1981,Finnish,,,,,
+maldonado,http://en.wikipedia.org/wiki/Pastor_Maldonado,Pastor,Maldonado,09/03/1985,Venezuelan,,,,,
+massa,http://en.wikipedia.org/wiki/Felipe_Massa,Felipe,Massa,25/04/1981,Brazilian,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+pic,http://en.wikipedia.org/wiki/Charles_Pic,Charles,Pic,15/02/1990,French,,,,,
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+rosberg,http://en.wikipedia.org/wiki/Nico_Rosberg,Nico,Rosberg,27/06/1985,German,,,,,
+sutil,http://en.wikipedia.org/wiki/Adrian_Sutil,Adrian,Sutil,11/01/1983,German,,,,,
+garde,http://en.wikipedia.org/wiki/Giedo_van_der_Garde,Giedo,van der Garde,25/04/1985,Dutch,,,,,
+vergne,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne,Jean-Éric,Vergne,25/04/1990,French,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+webber,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Mark,Webber,27/08/1976,Australian,,,,,
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,,,,
+jules_bianchi,http://en.wikipedia.org/wiki/Jules_Bianchi,Jules,Bianchi,03/08/1989,French,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+button,http://en.wikipedia.org/wiki/Jenson_Button,Jenson,Button,19/01/1980,British,,,,,
+chilton,http://en.wikipedia.org/wiki/Max_Chilton,Max,Chilton,21/04/1991,British,,,,,
+ericsson,http://en.wikipedia.org/wiki/Marcus_Ericsson,Marcus,Ericsson,02/09/1990,Swedish,,,,,
+grosjean,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,17/04/1986,French,,,,,
+gutierrez,http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez,Esteban,Gutiérrez,05/08/1991,Mexican,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,,,,
+kobayashi,http://en.wikipedia.org/wiki/Kamui_Kobayashi,Kamui,Kobayashi,13/09/1986,Japanese,,,,,
+kvyat,http://en.wikipedia.org/wiki/Daniil_Kvyat,Daniil,Kvyat,26/04/1994,Russian,,,,,
+lotterer,http://en.wikipedia.org/wiki/Andr%C3%A9_Lotterer,André,Lotterer,19/11/1981,German,,,,,
+kevin_magnussen,http://en.wikipedia.org/wiki/Kevin_Magnussen,Kevin,Magnussen,05/10/1992,Danish,,,,,
+maldonado,http://en.wikipedia.org/wiki/Pastor_Maldonado,Pastor,Maldonado,09/03/1985,Venezuelan,,,,,
+massa,http://en.wikipedia.org/wiki/Felipe_Massa,Felipe,Massa,25/04/1981,Brazilian,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+rosberg,http://en.wikipedia.org/wiki/Nico_Rosberg,Nico,Rosberg,27/06/1985,German,,,,,
+stevens,http://en.wikipedia.org/wiki/Will_Stevens,Will,Stevens,28/06/1991,British,,,,,
+sutil,http://en.wikipedia.org/wiki/Adrian_Sutil,Adrian,Sutil,11/01/1983,German,,,,,
+vergne,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne,Jean-Éric,Vergne,25/04/1990,French,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+button,http://en.wikipedia.org/wiki/Jenson_Button,Jenson,Button,19/01/1980,British,,,,,
+ericsson,http://en.wikipedia.org/wiki/Marcus_Ericsson,Marcus,Ericsson,02/09/1990,Swedish,,,,,
+grosjean,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,17/04/1986,French,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,,,,
+kvyat,http://en.wikipedia.org/wiki/Daniil_Kvyat,Daniil,Kvyat,26/04/1994,Russian,,,,,
+kevin_magnussen,http://en.wikipedia.org/wiki/Kevin_Magnussen,Kevin,Magnussen,05/10/1992,Danish,,,,,
+maldonado,http://en.wikipedia.org/wiki/Pastor_Maldonado,Pastor,Maldonado,09/03/1985,Venezuelan,,,,,
+massa,http://en.wikipedia.org/wiki/Felipe_Massa,Felipe,Massa,25/04/1981,Brazilian,,,,,
+merhi,http://en.wikipedia.org/wiki/Roberto_Merhi,Roberto,Merhi,22/03/1991,Spanish,,,,,
+nasr,http://en.wikipedia.org/wiki/Felipe_Nasr,Felipe,Nasr,21/08/1992,Brazilian,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+rosberg,http://en.wikipedia.org/wiki/Nico_Rosberg,Nico,Rosberg,27/06/1985,German,,,,,
+rossi,http://en.wikipedia.org/wiki/Alexander_Rossi_%28racing_driver%29,Alexander,Rossi,25/09/1991,American,,,,,
+sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,01/09/1994,Spanish,,,,,
+stevens,http://en.wikipedia.org/wiki/Will_Stevens,Will,Stevens,28/06/1991,British,,,,,
+max_verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,30/09/1997,Dutch,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+button,http://en.wikipedia.org/wiki/Jenson_Button,Jenson,Button,19/01/1980,British,,,,,
+ericsson,http://en.wikipedia.org/wiki/Marcus_Ericsson,Marcus,Ericsson,02/09/1990,Swedish,,,,,
+grosjean,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,17/04/1986,French,,,,,
+gutierrez,http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez,Esteban,Gutiérrez,05/08/1991,Mexican,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+haryanto,http://en.wikipedia.org/wiki/Rio_Haryanto,Rio,Haryanto,22/01/1993,Indonesian,,,,,
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,,,,
+kvyat,http://en.wikipedia.org/wiki/Daniil_Kvyat,Daniil,Kvyat,26/04/1994,Russian,,,,,
+kevin_magnussen,http://en.wikipedia.org/wiki/Kevin_Magnussen,Kevin,Magnussen,05/10/1992,Danish,,,,,
+massa,http://en.wikipedia.org/wiki/Felipe_Massa,Felipe,Massa,25/04/1981,Brazilian,,,,,
+nasr,http://en.wikipedia.org/wiki/Felipe_Nasr,Felipe,Nasr,21/08/1992,Brazilian,,,,,
+ocon,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,17/09/1996,French,,,,,
+jolyon_palmer,http://en.wikipedia.org/wiki/Jolyon_Palmer,Jolyon,Palmer,20/01/1991,British,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+rosberg,http://en.wikipedia.org/wiki/Nico_Rosberg,Nico,Rosberg,27/06/1985,German,,,,,
+sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,01/09/1994,Spanish,,,,,
+vandoorne,http://en.wikipedia.org/wiki/Stoffel_Vandoorne,Stoffel,Vandoorne,26/03/1992,Belgian,,,,,
+max_verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,30/09/1997,Dutch,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+wehrlein,http://en.wikipedia.org/wiki/Pascal_Wehrlein,Pascal,Wehrlein,18/10/1994,German,,,,,
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+button,http://en.wikipedia.org/wiki/Jenson_Button,Jenson,Button,19/01/1980,British,,,,,
+resta,http://en.wikipedia.org/wiki/Paul_di_Resta,Paul,di Resta,16/04/1986,British,,,,,
+ericsson,http://en.wikipedia.org/wiki/Marcus_Ericsson,Marcus,Ericsson,02/09/1990,Swedish,,,,,
+gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,07/02/1996,French,,,,,
+giovinazzi,http://en.wikipedia.org/wiki/Antonio_Giovinazzi,Antonio,Giovinazzi,14/12/1993,Italian,,,,,
+grosjean,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,17/04/1986,French,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+brendon_hartley,http://en.wikipedia.org/wiki/Brendon_Hartley,Brendon,Hartley,10/11/1989,New Zealander,,,,,
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,,,,
+kvyat,http://en.wikipedia.org/wiki/Daniil_Kvyat,Daniil,Kvyat,26/04/1994,Russian,,,,,
+kevin_magnussen,http://en.wikipedia.org/wiki/Kevin_Magnussen,Kevin,Magnussen,05/10/1992,Danish,,,,,
+massa,http://en.wikipedia.org/wiki/Felipe_Massa,Felipe,Massa,25/04/1981,Brazilian,,,,,
+ocon,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,17/09/1996,French,,,,,
+jolyon_palmer,http://en.wikipedia.org/wiki/Jolyon_Palmer,Jolyon,Palmer,20/01/1991,British,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,01/09/1994,Spanish,,,,,
+stroll,http://en.wikipedia.org/wiki/Lance_Stroll,Lance,Stroll,29/10/1998,Canadian,,,,,
+vandoorne,http://en.wikipedia.org/wiki/Stoffel_Vandoorne,Stoffel,Vandoorne,26/03/1992,Belgian,,,,,
+max_verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,30/09/1997,Dutch,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+wehrlein,http://en.wikipedia.org/wiki/Pascal_Wehrlein,Pascal,Wehrlein,18/10/1994,German,,,,,
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+ericsson,http://en.wikipedia.org/wiki/Marcus_Ericsson,Marcus,Ericsson,02/09/1990,Swedish,,,,,
+gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,07/02/1996,French,,,,,
+grosjean,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,17/04/1986,French,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+brendon_hartley,http://en.wikipedia.org/wiki/Brendon_Hartley,Brendon,Hartley,10/11/1989,New Zealander,,,,,
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,,,,
+leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,Charles,Leclerc,16/10/1997,Monegasque,,,,,
+kevin_magnussen,http://en.wikipedia.org/wiki/Kevin_Magnussen,Kevin,Magnussen,05/10/1992,Danish,,,,,
+ocon,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,17/09/1996,French,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,01/09/1994,Spanish,,,,,
+sirotkin,http://en.wikipedia.org/wiki/Sergey_Sirotkin_(racing_driver),Sergey,Sirotkin,27/08/1995,Russian,,,,,
+stroll,http://en.wikipedia.org/wiki/Lance_Stroll,Lance,Stroll,29/10/1998,Canadian,,,,,
+vandoorne,http://en.wikipedia.org/wiki/Stoffel_Vandoorne,Stoffel,Vandoorne,26/03/1992,Belgian,,,,,
+max_verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,30/09/1997,Dutch,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+albon,http://en.wikipedia.org/wiki/Alexander_Albon,Alexander,Albon,23/03/1996,Thai,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,07/02/1996,French,,,,,
+giovinazzi,http://en.wikipedia.org/wiki/Antonio_Giovinazzi,Antonio,Giovinazzi,14/12/1993,Italian,,,,,
+grosjean,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,17/04/1986,French,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,,,,
+kubica,http://en.wikipedia.org/wiki/Robert_Kubica,Robert,Kubica,07/12/1984,Polish,,,,,
+kvyat,http://en.wikipedia.org/wiki/Daniil_Kvyat,Daniil,Kvyat,26/04/1994,Russian,,,,,
+leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,Charles,Leclerc,16/10/1997,Monegasque,,,,,
+kevin_magnussen,http://en.wikipedia.org/wiki/Kevin_Magnussen,Kevin,Magnussen,05/10/1992,Danish,,,,,
+norris,http://en.wikipedia.org/wiki/Lando_Norris,Lando,Norris,13/11/1999,British,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+russell,http://en.wikipedia.org/wiki/George_Russell_%28racing_driver%29,George,Russell,15/02/1998,British,,,,,
+sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,01/09/1994,Spanish,,,,,
+stroll,http://en.wikipedia.org/wiki/Lance_Stroll,Lance,Stroll,29/10/1998,Canadian,,,,,
+max_verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,30/09/1997,Dutch,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+aitken,http://en.wikipedia.org/wiki/Jack_Aitken,Jack,Aitken,23/09/1995,British,,,,,
+albon,http://en.wikipedia.org/wiki/Alexander_Albon,Alexander,Albon,23/03/1996,Thai,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+pietro_fittipaldi,http://en.wikipedia.org/wiki/Pietro_Fittipaldi,Pietro,Fittipaldi,25/06/1996,Brazilian,,,,,
+gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,07/02/1996,French,,,,,
+giovinazzi,http://en.wikipedia.org/wiki/Antonio_Giovinazzi,Antonio,Giovinazzi,14/12/1993,Italian,,,,,
+grosjean,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,17/04/1986,French,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,,,,
+kvyat,http://en.wikipedia.org/wiki/Daniil_Kvyat,Daniil,Kvyat,26/04/1994,Russian,,,,,
+latifi,http://en.wikipedia.org/wiki/Nicholas_Latifi,Nicholas,Latifi,29/06/1995,Canadian,,,,,
+leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,Charles,Leclerc,16/10/1997,Monegasque,,,,,
+kevin_magnussen,http://en.wikipedia.org/wiki/Kevin_Magnussen,Kevin,Magnussen,05/10/1992,Danish,,,,,
+norris,http://en.wikipedia.org/wiki/Lando_Norris,Lando,Norris,13/11/1999,British,,,,,
+ocon,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,17/09/1996,French,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+russell,http://en.wikipedia.org/wiki/George_Russell_%28racing_driver%29,George,Russell,15/02/1998,British,,,,,
+sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,01/09/1994,Spanish,,,,,
+stroll,http://en.wikipedia.org/wiki/Lance_Stroll,Lance,Stroll,29/10/1998,Canadian,,,,,
+max_verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,30/09/1997,Dutch,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,07/02/1996,French,,,,,
+giovinazzi,http://en.wikipedia.org/wiki/Antonio_Giovinazzi,Antonio,Giovinazzi,14/12/1993,Italian,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+kubica,http://en.wikipedia.org/wiki/Robert_Kubica,Robert,Kubica,07/12/1984,Polish,,,,,
+latifi,http://en.wikipedia.org/wiki/Nicholas_Latifi,Nicholas,Latifi,29/06/1995,Canadian,,,,,
+leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,Charles,Leclerc,16/10/1997,Monegasque,,,,,
+mazepin,http://en.wikipedia.org/wiki/Nikita_Mazepin,Nikita,Mazepin,02/03/1999,Russian,,,,,
+norris,http://en.wikipedia.org/wiki/Lando_Norris,Lando,Norris,13/11/1999,British,,,,,
+ocon,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,17/09/1996,French,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+raikkonen,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,17/10/1979,Finnish,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+russell,http://en.wikipedia.org/wiki/George_Russell_%28racing_driver%29,George,Russell,15/02/1998,British,,,,,
+sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,01/09/1994,Spanish,,,,,
+mick_schumacher,http://en.wikipedia.org/wiki/Mick_Schumacher,Mick,Schumacher,22/03/1999,German,,,,,
+stroll,http://en.wikipedia.org/wiki/Lance_Stroll,Lance,Stroll,29/10/1998,Canadian,,,,,
+tsunoda,http://en.wikipedia.org/wiki/Yuki_Tsunoda,Yuki,Tsunoda,11/05/2000,Japanese,,,,,
+max_verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,30/09/1997,Dutch,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+albon,http://en.wikipedia.org/wiki/Alexander_Albon,Alexander,Albon,23/03/1996,Thai,,,,,
+alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,29/07/1981,Spanish,,,,,
+bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,28/08/1989,Finnish,,,,,
+de_vries,http://en.wikipedia.org/wiki/Nyck_de_Vries,Nyck,de Vries,06/02/1995,Dutch,,,,,
+gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,07/02/1996,French,,,,,
+hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,07/01/1985,British,,,,,
+hulkenberg,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,19/08/1987,German,,,,,
+latifi,http://en.wikipedia.org/wiki/Nicholas_Latifi,Nicholas,Latifi,29/06/1995,Canadian,,,,,
+leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,Charles,Leclerc,16/10/1997,Monegasque,,,,,
+kevin_magnussen,http://en.wikipedia.org/wiki/Kevin_Magnussen,Kevin,Magnussen,05/10/1992,Danish,,,,,
+norris,http://en.wikipedia.org/wiki/Lando_Norris,Lando,Norris,13/11/1999,British,,,,,
+ocon,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,17/09/1996,French,,,,,
+perez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,26/01/1990,Mexican,,,,,
+ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,01/07/1989,Australian,,,,,
+russell,http://en.wikipedia.org/wiki/George_Russell_%28racing_driver%29,George,Russell,15/02/1998,British,,,,,
+sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,01/09/1994,Spanish,,,,,
+mick_schumacher,http://en.wikipedia.org/wiki/Mick_Schumacher,Mick,Schumacher,22/03/1999,German,,,,,
+stroll,http://en.wikipedia.org/wiki/Lance_Stroll,Lance,Stroll,29/10/1998,Canadian,,,,,
+tsunoda,http://en.wikipedia.org/wiki/Yuki_Tsunoda,Yuki,Tsunoda,11/05/2000,Japanese,,,,,
+max_verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,30/09/1997,Dutch,,,,,
+vettel,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,03/07/1987,German,,,,,
+zhou,http://en.wikipedia.org/wiki/Guanyu_Zhou,Guanyu,Zhou,30/05/1999,Chinese,,,,,
